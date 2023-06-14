@@ -1,0 +1,13 @@
+vendor/PHPMailer/language
+vendor/PHPMailer/COMMITMENT
+vendor/PHPMailer/composer.json
+vendor/PHPMailer/get_oauth_token.php 
+vendor/PHPMailer/LICENSE
+vendor/PHPMailer/README.md
+vendor/PHPMailer/SECURITY.md
+vendor/PHPMailer/VERSION
+vendor/.htaccess
+vendor/PHPMailer/src/DSNConfigurator.php
+vendor/PHPMailer/src/OAuth.php
+vendor/PHPMailer/src/OAuthTokenProvider.php
+vendor/PHPMailer/src/POP3.php
